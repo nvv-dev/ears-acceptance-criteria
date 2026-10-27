@@ -1,0 +1,16 @@
+{
+  "name": "ears-acceptance-criteria",
+  "version": "0.1.0",
+  "description": "Turns vague requirements into EARS acceptance criteria and gives every task a verification command.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/ears-acceptance-criteria",
+  "repository": "https://github.com/nvv-dev/ears-acceptance-criteria",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
